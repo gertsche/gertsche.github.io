@@ -1,3 +1,7 @@
+# ag-folio
+
+A fork of [al-folio](https://github.com/alshedivat/al-folio) with some **minor** stylistic modifications. This is the theme that I use for my [personal website](https://abstractgeek.github.io). 
+
 # al-folio
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [maintainers]: https://img.shields.io/badge/maintainers-3-success.svg 'Number of maintainers'
@@ -86,11 +90,8 @@ Feel free to add your own page(s) by sending a PR.
 <a href="https://daviddmc.github.io/" target="_blank">★</a>
 <a href="https://andreaskuster.ch/" target="_blank">★</a>
 <a href="https://ellisbrown.github.io/" target="_blank">★</a>
-<a href="https://noman-bashir.github.io/" target="_blank">★</a>
+ <a href="https://noman-bashir.github.io/" target="_blank">★</a>
 <a href="https://djherron.github.io/" target="_blank">★</a>
-<a href="https://rodosingh.github.io/" target="_blank">★</a>
-<a href="https://vdivakar.github.io/" target="_blank">★</a> 
-<a href="https://george-gca.github.io/" target="_blank">★</a>
 </td>
 </tr>
 <tr>
@@ -121,8 +122,7 @@ ML Retrospectives (NeurIPS: <a href="https://ml-retrospectives.github.io/neurips
 HAMLETS (NeurIPS: <a href="https://hamlets-workshop.github.io/" target="_blank">2020</a>) <br>
 ICBINB (NeurIPS: <a href="https://i-cant-believe-its-not-better.github.io/" target="_blank">2020</a>, <a href="https://i-cant-believe-its-not-better.github.io/neurips2021/" target="_blank">2021</a>) <br>
 Neural Compression (ICLR: <a href="https://neuralcompression.github.io/" target="_blank">2021</a>) <br>
-Score Based Methods (NeurIPS: <a href="https://score-based-methods-workshop.github.io/" target="_blank">2022</a>)<br>
-Images2Symbols (CogSci: <a href="https://images2symbols.github.io/" target="_blank"> 2022</a>)
+Score Based Methods (NeurIPS: <a href="https://score-based-methods-workshop.github.io/" target="_blank">2022</a>)
 </td>
 </tr>
 </table>
