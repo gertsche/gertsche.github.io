@@ -8,9 +8,11 @@ profile:
   align: right
   image: prof_pic_square.jpg
   address: >
-    <p>555 your office number <br>
-    123 your address street <br>
-    Your City, State 12345</p>
+    <p>Currently, you will find me living and working in Seoul, South Korea. <br>
+    While I attended undergrad in Utah, my hometown is in Michigan. <br>
+    </p>
+    
+    <p> Let's connect! Find me on Github and LinkedIn: </p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

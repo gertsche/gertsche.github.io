@@ -3,12 +3,12 @@
  ******************************************************************************/
 
 // Day theme colors
-$burnt-orange-color:          #E65100 !default;                         // orange 900 material.io
-$light-burnt-orange-color:    #FF9800 !default;                         // orange 500 material.io
+$burnt-orange-color:          #2155e6 !default;                         // orange 900 material.io
+$light-burnt-orange-color:    darken($burnt-orange-color, 20%);                         // orange 500 material.io
 // $light-burnt-orange-color:    lighten($burnt-orange-color, 10%);
 
 // Night theme colors
-$bluish-green-color:           #2ce0a1 !default;
+$bluish-green-color:           #f14320 !default;
 $dark-bluish-green-color:      darken($bluish-green-color, 10%); 
 $card-grey-color:              #212121 !default;
 
