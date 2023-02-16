@@ -18,15 +18,16 @@
       year: 
         08.2021 - present 
         # (anticipated)
-      description:
-        - Description 1.
+      description: 
+        - >
+          anticipated graduation date: June 2023 
         - Description 2.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: BS - Applied Statistics and Analytics
-      # title: minor - French Studies
+    - title: >
+        BS - Applied Statistics and Analytics, minor - French Studies
       institution: Brigham Young University [Provo, Utah]
       year: 08.2016 - 04.2020
       description:
