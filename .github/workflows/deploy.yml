@@ -4,11 +4,11 @@ on:
   push:
     branches:
       - master
-      - gh-pages
+      - source
   pull_request:
     branches:
       - master
-      - gh-pages
+      - source
 
 jobs:
   deploy:
