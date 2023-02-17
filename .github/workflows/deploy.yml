@@ -46,4 +46,4 @@ jobs:
                     --src ${{ steps.setup.outputs.SRC_BRANCH }} 
                     --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }} 
   
-  ### git commit -am "add execute permissions to bin/deploy"
+  # git commit -am "add execute permissions to bin/deploy"
