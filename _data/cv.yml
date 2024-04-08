@@ -6,7 +6,7 @@
     # - name: Date of Birth
     #   value: 14th March 1879
     - name: Languages Spoken
-      value: English (native), French (fluent), Korean (advanced beginner)
+      value: English (native), French (C1), Korean (TOPIK1)
     - name: Coding Languages
       value: R, SAS, Python, STATA
 
@@ -16,23 +16,18 @@
     - title: MPH - Public Health
       institution: University of Utah [Incheon, South Korea and Salt Lake City, Utah, USA]
       year: 
-        08.2021 - present 
+        08.2021 - 12.2023 
         # (anticipated)
       description: 
-        - >
-          anticipated graduation date: June 2023 
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: >
+        - Coursework in public health policy, biostatistics, and epidemiology
+        - CPH certified
+    - title: 
         BS - Applied Statistics and Analytics, minor - French Studies
       institution: Brigham Young University [Provo, Utah]
       year: 08.2016 - 04.2020
       description:
-        - Description 1.
-        - Description 2.
+        - Coursework in multivariate statistical analysis, data science, machine learning, and Bayesian statistics
+        - Quality control certification
 
 - title: Experience
   type: time_table
@@ -41,12 +36,8 @@
       institution: Utah AIDS Education and Training Center
       year: 04.2022 - 12.2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Site visits in southern Utah communities
+        - Developed a webpage showing geographic rearch of training program
     # - title: Visiting Professor
     #   institution: California Institute of Technology, Pasadena, California, US
     #   year: 1933
@@ -74,30 +65,16 @@
 #       year: 2015-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
 
-- title: Academic Interests
+- title: Professional Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Public Health
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Women's and reproductive health
+        - Biostatistics and epidemiology
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Reading, traveling
